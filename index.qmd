@@ -1,7 +1,7 @@
 ---
 title: "Sian Xiao"
 about:
-  template: trestles
+  template: jolla
   id: hero-heading
   image: Photo.jpg
   links:
