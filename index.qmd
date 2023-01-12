@@ -1,0 +1,30 @@
+---
+title: "Sian Xiao"
+about:
+  template: jolla
+  id: hero-heading
+  image: Photo.jpg
+  links:
+    - icon: envelope-fill
+      text: E-mail
+      href: mailto:sxiao@smu.edu
+    - icon: github
+      text: Github
+      href: https://github.com/SianXiaoCHN
+    - icon: file-person-fill
+      text: CV
+      href: ./CV.pdf
+---
+
+::: {#hero-heading}
+Sian Xiao is currently a PhD student in [Southern Methodist University][smu]
+
+[smu]:<https://www.smu.edu/>
+
+:::
+
+## Education
+
+[**Southern Methodist University**](https://www.smu.edu/) | Dallas, US
+
+PhD in  | Aug 2020 - now
