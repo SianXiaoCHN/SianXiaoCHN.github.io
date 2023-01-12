@@ -23,9 +23,15 @@ about:
 ---
 
 ::: {#hero-heading}
-Sian Xiao is currently a PhD student in [Southern Methodist University][smu]
+Sian Xiao is currently a PhD student in [Southern Methodist University][smu] advised by Dr. [Peng Tao][ptao] from fall 2020.
+
+He is working on the combination of computational structural biology and modern machine learning techniques.
+His research topic covers protein allostery, protein conformation exploration, and drug desgin.
+
+He is a soccer fan. He also loves traveling and working out.
 
 [smu]:<https://www.smu.edu/>
+[ptao]:<https://www.smu.edu/Dedman/Academics/Departments/Chemistry/People/Faculty/PengTao>
 
 :::
 
