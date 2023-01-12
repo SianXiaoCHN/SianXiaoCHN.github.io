@@ -14,6 +14,9 @@ about:
     - icon: file-person-fill
       text: CV
       href: ./CV-SianXiao.pdf
+    - icon: linkenin
+      text: LinkenIn
+      href: https://www.linkedin.com/in/sianxiao/
 ---
 
 ::: {#hero-heading}
