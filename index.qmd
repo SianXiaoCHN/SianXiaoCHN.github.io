@@ -13,7 +13,7 @@ about:
       href: https://github.com/SianXiaoCHN
     - icon: file-person-fill
       text: CV
-      href: ./CV.pdf
+      href: ./CV-SianXiao.pdf
 ---
 
 ::: {#hero-heading}
@@ -25,6 +25,16 @@ Sian Xiao is currently a PhD student in [Southern Methodist University][smu]
 
 ## Education
 
-[**Southern Methodist University**](https://www.smu.edu/) | Dallas, US
+[**Southern Methodist University**](https://www.smu.edu/) | Dallas, TX, US
 
-PhD in  | Aug 2020 - now
+Ph.D. in Theoretical and Computational Chemistry | Aug. 2020 - present
+
+[**Georgia Institue of Technology**](https://www.gatech.edu/) | Atlanta, GA, US
+
+M.S. in Computer Science | Aug.2022 - present
+
+[**Beijing University of Chemical Technology**](https://www.buct.edu.cn/) | Beijing, Beijing, China
+
+B.E. in Polymer Materials and Engineering | Sep.2015 - Jul. 2019
+
+
