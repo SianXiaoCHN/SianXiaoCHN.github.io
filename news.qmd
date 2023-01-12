@@ -2,5 +2,5 @@
 title: "News"
 ---
 
-- **Feb.2023** 28^th^ Austin Symposium on Molecular Structure and Dynamics at Dallas (ASMD@D), Dallas, TX, US
-- **Mar.2022** Poster Presentation, ACS Spring 2022, San Diego, CA, US
+- **Feb. 2023** 28^th^ Austin Symposium on Molecular Structure and Dynamics at Dallas (ASMD@D), Dallas, TX, US
+- **Mar. 2022** Poster Presentation, ACS Spring 2022, San Diego, CA, US
