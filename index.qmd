@@ -14,9 +14,12 @@ about:
     - icon: file-person-fill
       text: CV
       href: ./CV-SianXiao.pdf
-    - icon: linkenin
-      text: LinkenIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/sianxiao/
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=BD0ESZoAAAAJ&hl=en&oi=ao
 ---
 
 ::: {#hero-heading}
