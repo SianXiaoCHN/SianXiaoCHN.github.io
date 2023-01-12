@@ -1,3 +1,8 @@
 ---
 title: "Publication"
 ---
+
+- **Jan.2023** Tian, H., Jiang, X., Xiao, S., La Force, H., Larson, E. C., & Tao, P. (2023). LAST: Latent Space Assisted Adaptive Sampling for Protein Trajectories. ***Journal of Chemical Information and Modeling***, 63.
+- **Dec.2022** Xiao, S., Verkhivker, G. M., & Tao, P. (2022). Machine learning and protein allostery. (2022). ***Trends in Biochemical Sciences***.
+- **Jul.2022** Xiao, S., Tian, H., & Tao, P. (2021). PASSer2. 0: Accurate Prediction of Protein Allosteric Sites Through Automated Machine Learning. (2022). ***Frontiers in Molecular Biosciences***, 9.
+- **Nov.2021** Tian, H., Jiang, X., Trozzi, F., Xiao, S., Larson, E. C., & Tao, P. (2021). Explore protein conformational space with variational autoencoder. ***Frontiers in Molecular Biosciences***, 8.
