@@ -1,6 +1,6 @@
 project:
   type: website
-  resuorces: CV.pdf
+  resources: CV.pdf
 
 website:
   title: "Sian Xiao"
