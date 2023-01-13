@@ -15,6 +15,7 @@ website:
       - publication.qmd
       - award.qmd
       - contact.qmd
+    pinned: true
   page-footer:
     border: true
     center: "Copyright 2022, Sian Xiao. All rights reserved."
