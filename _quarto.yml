@@ -12,7 +12,6 @@ website:
         text: Home
       - news.qmd
       - project.qmd
-      - talk.qmd
       - publication.qmd
       - award.qmd
       - contact.qmd
