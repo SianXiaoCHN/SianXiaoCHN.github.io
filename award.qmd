@@ -2,6 +2,7 @@
 title: "Award"
 ---
 
+- **Apr. 2023** Computational Science and Engineering graduate fellowship, SMU
 - **Dec. 2022** Theoretical and Computational Chemistry Research Achievement Award, SMU
 - **Nov. 2021** Runner-up Three Minute Thesis Competition, SMU [[link](https://www.smu.edu/Moody/Events/Three-Minute-Thesis)]
 - **Mar. 2020** University Ph.D. Fellowship, SMU [[link](https://www.smu.edu/Moody/Funding/PHD-Fellows/Xiao)]
