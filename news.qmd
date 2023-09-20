@@ -2,6 +2,7 @@
 title: "News"
 ---
 
+- **Aug. 2023** Poster Presentation, ACS Fall 2023, San Francisco, CA, US
 - **May. 2023** MolSSI workshop: Machine Learning and Chemistry: Are We There Yet?, College Park, MD, US
 - **Apr. 2023** 55^th^ ACS DFW Annual Meeting-in-Miniature, Stephenville, TX, US
 - **Mar. 2023** i-CoMSE Enhanced Sampling Virtual School 2023
