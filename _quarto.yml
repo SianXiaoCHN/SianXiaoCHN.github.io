@@ -18,7 +18,7 @@ website:
     pinned: true
   page-footer:
     border: true
-    center: "Copyright 2022, Sian Xiao. All rights reserved."
+    center: "Copyright 2022-2024, Sian Xiao. All rights reserved."
     background: light
 
 format:
