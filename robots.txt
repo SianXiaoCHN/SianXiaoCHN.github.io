@@ -1,1 +1,1 @@
-Sitemap: https://github.com/SianXiaoCHN/SianXiaoCHN.github.io/sitemap.xml
+Sitemap: https://SianXiaoCHN.github.io/sitemap.xml
