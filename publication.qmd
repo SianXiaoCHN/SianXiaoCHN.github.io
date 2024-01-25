@@ -1,9 +1,16 @@
 ---
 title: "Publication"
+about:
+  template: jolla
+  id: hero-heading
 ---
 
-
+::: {#hero-heading}
 \# first author; \* corresponding author
+
+:::
+
+## 2022
 
 - Raisinghani, N.; Alshahrani, M.; Gupta, G.; **Xiao, S.**; Tao, P.; Verkhivker, G. AlphaFold2-Enabled Atomistic Modeling of Epistatic Binding Mechanisms for the SARS-CoV-2 Spike Omicron XBB.1.5, EG.5 and FLip Variants: Convergent Evolution Hotspots Cooperate to Control Stability and Conformational Adaptability in Balancing ACE2 Binding and Antibody Resistance. *bioRxiv*, 2023.[[link](https://doi.org/10.1101/2023.12.11.571185)]
 - Raisinghani, N.; Alshahrani, M.; Gupta, G.; **Xiao, S.**; Tao, P.; Verkhivker, G. Accurate Characterization of Conformational Ensembles and Binding Mechanisms of the SARS-CoV-2 Omicron BA.2 and BA.2.86 Spike Protein with the Host Receptor and Distinct Classes of Antibodies Using AlphaFold2-Augmented Integrative Computational Modeling. *bioRxiv*, 2023.[[link](https://doi.org/10.1101/2023.11.18.567697)]
