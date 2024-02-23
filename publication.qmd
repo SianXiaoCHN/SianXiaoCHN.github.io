@@ -11,8 +11,8 @@ Annotations: \# first author; \* corresponding author
 
 ## 2024
 
-- Raisinghani, N.; Alshahrani, M.; Gupta, G.; **Xiao, S.**; Tao, P.; Verkhivker, G. AlphaFold2-Enabled Atomistic Modeling of Structure, Conformational Ensembles, and Binding Energetics of the SARS-CoV-2 Omicron BA.2.86 Spike Protein with ACE2 Host Receptor and Antibodies: Compensatory Functional Effects of Binding Hotspots in Modulating Mechanisms of Receptor Binding and Immune Escape. *Journal of Chemical Information and Modeling*, 2024. [[link](https://doi.org/10.1021/acs.jcim.3c01857)]
 - **Xiao, S.**^\#\*^; Mohamed, M.; Verkhivker, G.; Zoltolwski, B.; Tao, P. *β*-sheets mediate the conformational change and allosteric signal transmission between the AsLOV2 termini. *Journal of Computational Chemistry*, 2024, Accepted.
+- Raisinghani, N.; Alshahrani, M.; Gupta, G.; **Xiao, S.**; Tao, P.; Verkhivker, G. AlphaFold2-Enabled Atomistic Modeling of Structure, Conformational Ensembles, and Binding Energetics of the SARS-CoV-2 Omicron BA.2.86 Spike Protein with ACE2 Host Receptor and Antibodies: Compensatory Functional Effects of Binding Hotspots in Modulating Mechanisms of Receptor Binding and Immune Escape. *Journal of Chemical Information and Modeling*, 2024. [[link](https://doi.org/10.1021/acs.jcim.3c01857)]
 
 ## 2023
 
