@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sian Xiao",
     "section": "",
-    "text": "Aug. 2023 Poster Presentation, ACS Fall 2023, San Francisco, CA, US\nMay. 2023 MolSSI workshop: Machine Learning and Chemistry: Are We There Yet?, College Park, MD, US\nApr. 2023 Oral Presentation, 55th ACS DFW Annual Meeting-in-Miniature, Stephenville, TX, US\nMar. 2023 i-CoMSE Enhanced Sampling Virtual School 2023\nFeb. 2023 28th Austin Symposium on Molecular Structure and Dynamics at Dallas (ASMD@D), Dallas, TX, US\nMar. 2022 Poster Presentation, ACS Spring 2022, San Diego, CA, US\nNov. 2021 Three Minute Thesis, SMU, Dallas, TX, US"
+    "text": "Sian Xiao is currently a PhD candidate in Southern Methodist University advised by Dr. Peng Tao from Fall 2020. The estimated graduation time is 2024.\nHe is working on the combination of computational structural biology and modern machine learning techniques. His research topic covers protein dynamics, protein allostery, and drug desgin.\nHe is a soccer fan. He also loves traveling and working out.\n \n  \n   \n  \n    \n     E-mail\n  \n  \n    \n     Github\n  \n  \n    \n     CV\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Google Scholar"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sian Xiao",
+    "section": "Education",
+    "text": "Education\nSouthern Methodist University | Dallas, TX, US\nPh.D. in Theoretical and Computational Chemistry | Aug. 2020 - present\nGeorgia Institue of Technology | Atlanta, GA, US\nM.S. in Computer Science | Aug. 2022 - present\nBeijing University of Chemical Technology | Beijing, China\nB.E. in Polymer Materials and Engineering, Experimental Class of Science | Sep. 2015 - Jul. 2019"
   },
   {
     "objectID": "contact.html",
@@ -12,6 +19,13 @@
     "title": "Contact",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "Aug. 2023 Poster Presentation, ACS Fall 2023, San Francisco, CA, US\nMay. 2023 MolSSI workshop: Machine Learning and Chemistry: Are We There Yet?, College Park, MD, US\nApr. 2023 Oral Presentation, 55th ACS DFW Annual Meeting-in-Miniature, Stephenville, TX, US\nMar. 2023 i-CoMSE Enhanced Sampling Virtual School 2023\nFeb. 2023 28th Austin Symposium on Molecular Structure and Dynamics at Dallas (ASMD@D), Dallas, TX, US\nMar. 2022 Poster Presentation, ACS Spring 2022, San Diego, CA, US\nNov. 2021 Three Minute Thesis, SMU, Dallas, TX, US"
   },
   {
     "objectID": "publication.html",
@@ -25,7 +39,7 @@
     "href": "publication.html#section",
     "title": "Publication",
     "section": "2024",
-    "text": "2024\n\nRaisinghani, N.; Alshahrani, M.; Gupta, G.; Tian, H.; Xiao, S.; Tao, P.; Verkhivker, G. Interpretable Atomistic Prediction and Functional Analysis of Conformational Ensembles and Allosteric States in Protein Kinases Using AlphaFold2 Adaptation with Randomized Sequence Scanning and Local Frustration Profiling. bioRxiv, 2024. [link]\nXiao, S.#*; Mohamed, M.; Verkhivker, G.; Zoltolwski, B.; Tao, P. β-sheets mediate the conformational change and allosteric signal transmission between the AsLOV2 termini. Journal of Computational Chemistry, 2024, Accepted. [link]\nRaisinghani, N.; Alshahrani, M.; Gupta, G.; Xiao, S.; Tao, P.; Verkhivker, G. AlphaFold2-Enabled Atomistic Modeling of Structure, Conformational Ensembles, and Binding Energetics of the SARS-CoV-2 Omicron BA.2.86 Spike Protein with ACE2 Host Receptor and Antibodies: Compensatory Functional Effects of Binding Hotspots in Modulating Mechanisms of Receptor Binding and Immune Escape. Journal of Chemical Information and Modeling, 2024. [link]"
+    "text": "2024\n\nRaisinghani, N.; Alshahrani, M.; Gupta, G.; Tian, H.; Xiao, S.; Tao, P.; Verkhivker, G. Interpretable Atomistic Prediction and Functional Analysis of Conformational Ensembles and Allosteric States in Protein Kinases Using AlphaFold2 Adaptation with Randomized Sequence Scanning and Local Frustration Profiling. bioRxiv, 2024. [link]\nXiao, S.#*; Mohamed, M.; Verkhivker, G.; Zoltolwski, B.; Tao, P. β-sheets mediate the conformational change and allosteric signal transmission between the AsLOV2 termini. Journal of Computational Chemistry, 2024, Accepted. [link]\nRaisinghani, N.; Alshahrani, M.; Gupta, G.; Xiao, S.; Tao, P.; Verkhivker, G. AlphaFold2-Enabled Atomistic Modeling of Structure, Conformational Ensembles, and Binding Energetics of the SARS-CoV-2 Omicron BA.2.86 Spike Protein with ACE2 Host Receptor and Antibodies: Compensatory Functional Effects of Binding Hotspots in Modulating Mechanisms of Receptor Binding and Immune Escape. Journal of Chemical Information and Modeling, 2024, 5, 1657-1681. [link]"
   },
   {
     "objectID": "publication.html#section-1",
@@ -47,20 +61,6 @@
     "title": "Publication",
     "section": "2021",
     "text": "2021\n\nTian, H.; Jiang, X.; Trozzi, F.; Xiao, S.; Larson, E. C.; Tao, P. Explore Protein Conformational Space With Variational Autoencoder. Frontiers in Molecular Biosciences, 2021, 8. [link]"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sian Xiao",
-    "section": "",
-    "text": "Sian Xiao is currently a PhD candidate in Southern Methodist University advised by Dr. Peng Tao from Fall 2020. The estimated graduation time is 2024.\nHe is working on the combination of computational structural biology and modern machine learning techniques. His research topic covers protein dynamics, protein allostery, and drug desgin.\nHe is a soccer fan. He also loves traveling and working out.\n \n  \n   \n  \n    \n     E-mail\n  \n  \n    \n     Github\n  \n  \n    \n     CV\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Google Scholar"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Sian Xiao",
-    "section": "Education",
-    "text": "Education\nSouthern Methodist University | Dallas, TX, US\nPh.D. in Theoretical and Computational Chemistry | Aug. 2020 - present\nGeorgia Institue of Technology | Atlanta, GA, US\nM.S. in Computer Science | Aug. 2022 - present\nBeijing University of Chemical Technology | Beijing, China\nB.E. in Polymer Materials and Engineering, Experimental Class of Science | Sep. 2015 - Jul. 2019"
   },
   {
     "objectID": "award.html",
