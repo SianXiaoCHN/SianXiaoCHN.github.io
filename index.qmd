@@ -23,11 +23,10 @@ about:
 ---
 
 ::: {#hero-heading}
-Sian Xiao is currently a PhD candidate in [Southern Methodist University][smu] advised by Dr. [Peng Tao][ptao] from Fall 2020.
-The estimated graduation time is 2024.
+Sian Xiao obtained his Ph.D. in Theoretical and Computational Chemistry at [Southern Methodist University][smu] advised by Dr. [Peng Tao][ptao].
 
 He is working on the combination of computational structural biology and modern machine learning techniques.
-His research topic covers protein dynamics, protein allostery, and drug desgin.
+His research topic covers protein dynamics, protein allostery, drug desgin, and applications of machine learning and deep learning.
 
 He is a soccer fan. He also loves traveling and working out.
 
@@ -40,7 +39,7 @@ He is a soccer fan. He also loves traveling and working out.
 
 [**Southern Methodist University**](https://www.smu.edu/) | Dallas, TX, US
 
-Ph.D. in Theoretical and Computational Chemistry | Aug. 2020 - present
+Ph.D. in Theoretical and Computational Chemistry | Aug. 2020 - May. 2024
 
 
 [**Georgia Institue of Technology**](https://www.gatech.edu/) | Atlanta, GA, US
