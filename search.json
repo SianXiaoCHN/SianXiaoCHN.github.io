@@ -1,24 +1,38 @@
 [
   {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "Aug. 2023 Poster Presentation, ACS Fall 2023, San Francisco, CA, US\nMay. 2023 MolSSI workshop: Machine Learning and Chemistry: Are We There Yet?, College Park, MD, US\nApr. 2023 Oral Presentation, 55th ACS DFW Annual Meeting-in-Miniature, Stephenville, TX, US\nMar. 2023 i-CoMSE Enhanced Sampling Virtual School 2023\nFeb. 2023 28th Austin Symposium on Molecular Structure and Dynamics at Dallas (ASMD@D), Dallas, TX, US\nMar. 2022 Poster Presentation, ACS Spring 2022, San Diego, CA, US\nNov. 2021 Three Minute Thesis, SMU, Dallas, TX, US"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sian Xiao",
     "section": "",
-    "text": "Sian Xiao is currently a PhD candidate in Southern Methodist University advised by Dr. Peng Tao from Fall 2020. The estimated graduation time is 2024.\nHe is working on the combination of computational structural biology and modern machine learning techniques. His research topic covers protein dynamics, protein allostery, and drug desgin.\nHe is a soccer fan. He also loves traveling and working out.\n \n  \n   \n  \n    \n     E-mail\n  \n  \n    \n     Github\n  \n  \n    \n     CV\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Google Scholar"
+    "text": "Sian Xiao obtained his Ph.D. in Theoretical and Computational Chemistry at Southern Methodist University advised by Dr. Peng Tao.\nHe is working on the combination of computational structural biology and modern machine learning techniques. His research topic covers protein dynamics, protein allostery, drug desgin, and applications of machine learning and deep learning.\nHe is a soccer fan. He also loves traveling and working out.\n \n  \n   \n  \n    \n     E-mail\n  \n  \n    \n     Github\n  \n  \n    \n     CV\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Google Scholar"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Sian Xiao",
     "section": "Education",
-    "text": "Education\nSouthern Methodist University | Dallas, TX, US\nPh.D. in Theoretical and Computational Chemistry | Aug. 2020 - present\nGeorgia Institue of Technology | Atlanta, GA, US\nM.S. in Computer Science | Aug. 2022 - present\nBeijing University of Chemical Technology | Beijing, China\nB.E. in Polymer Materials and Engineering, Experimental Class of Science | Sep. 2015 - Jul. 2019"
+    "text": "Education\nSouthern Methodist University | Dallas, TX, US\nPh.D. in Theoretical and Computational Chemistry | Aug. 2020 - May. 2024\nGeorgia Institue of Technology | Atlanta, GA, US\nM.S. in Computer Science | Aug. 2022 - present\nBeijing University of Chemical Technology | Beijing, China\nB.E. in Polymer Materials and Engineering, Experimental Class of Science | Sep. 2015 - Jul. 2019"
   },
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
+    "objectID": "award.html",
+    "href": "award.html",
+    "title": "Award",
     "section": "",
-    "text": "Aug. 2023 Poster Presentation, ACS Fall 2023, San Francisco, CA, US\nMay. 2023 MolSSI workshop: Machine Learning and Chemistry: Are We There Yet?, College Park, MD, US\nApr. 2023 Oral Presentation, 55th ACS DFW Annual Meeting-in-Miniature, Stephenville, TX, US\nMar. 2023 i-CoMSE Enhanced Sampling Virtual School 2023\nFeb. 2023 28th Austin Symposium on Molecular Structure and Dynamics at Dallas (ASMD@D), Dallas, TX, US\nMar. 2022 Poster Presentation, ACS Spring 2022, San Diego, CA, US\nNov. 2021 Three Minute Thesis, SMU, Dallas, TX, US"
+    "text": "Jan. 2024 Theoretical and Computational Chemistry Research Achievement Award, SMU\nMay. 2023 Graduate Research Achievement Award (2022-2023 academic year), SMU\nApr. 2023 3rd Place Price in Physical/Computational Chemistry Section, 55th ACS DFW Annual Meeting-in-Miniature [link]\nApr. 2023 Computational Science and Engineering graduate fellowship (2023-2024), SMU\nDec. 2022 Theoretical and Computational Chemistry Research Achievement Award, SMU\nNov. 2021 Runner-up Three Minute Thesis Competition, SMU [link]\nMar. 2020 University Ph.D. Fellowship (2020-2024), SMU [link]\nNov. 2017 Outstanding student of College of Materials Science and Engineering, BUCT\nMay. 2017 First Prize, Mathematical Contest in Modeling, BUCT\nNov. 2016 Outstanding student of College of Science, BUCT\nSep. 2015 Outstanding student of University, BUCT"
   },
   {
     "objectID": "publication.html",
@@ -54,19 +68,5 @@
     "title": "Publication",
     "section": "2021",
     "text": "2021\n\nTian, H.; Jiang, X.; Trozzi, F.; Xiao, S.; Larson, E. C.; Tao, P. Explore Protein Conformational Space With Variational Autoencoder. Frontiers in Molecular Biosciences, 2021, 8. [link]"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "award.html",
-    "href": "award.html",
-    "title": "Award",
-    "section": "",
-    "text": "Jan. 2024 Theoretical and Computational Chemistry Research Achievement Award, SMU\nMay. 2023 Graduate Research Achievement Award (2022-2023 academic year), SMU\nApr. 2023 3rd Place Price in Physical/Computational Chemistry Section, 55th ACS DFW Annual Meeting-in-Miniature [link]\nApr. 2023 Computational Science and Engineering graduate fellowship (2023-2024), SMU\nDec. 2022 Theoretical and Computational Chemistry Research Achievement Award, SMU\nNov. 2021 Runner-up Three Minute Thesis Competition, SMU [link]\nMar. 2020 University Ph.D. Fellowship (2020-2024), SMU [link]\nNov. 2017 Outstanding student of College of Materials Science and Engineering, BUCT\nMay. 2017 First Prize, Mathematical Contest in Modeling, BUCT\nNov. 2016 Outstanding student of College of Science, BUCT\nSep. 2015 Outstanding student of University, BUCT"
   }
 ]
