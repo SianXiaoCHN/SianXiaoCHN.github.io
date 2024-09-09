@@ -12,7 +12,7 @@ website:
         text: Home
       - news.qmd
       - project.qmd
-      - publication.qmd
+      - science.qmd
       - award.qmd
       - contact.qmd
     pinned: true
