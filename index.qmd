@@ -1,5 +1,5 @@
 ---
-title: "Sian Xiao"
+title: "Sian Xiao, Ph.D."
 about:
   template: jolla
   id: hero-heading
@@ -23,28 +23,27 @@ about:
 ---
 
 ::: {#hero-heading}
-Sian Xiao obtained his Ph.D. in Theoretical and Computational Chemistry at [Southern Methodist University][smu] advised by Dr. [Peng Tao][ptao].
 
-He is working on the combination of computational structural biology and modern machine learning techniques.
-His research topic covers protein dynamics, protein allostery, drug desgin, and applications of machine learning and deep learning.
+I will join Goldman Sachs as a Quantitative Strategist within Risk starting January 2025.
 
-He is a soccer fan. He also loves traveling and working out.
+I am a soccer fan. I also love traveling and working out.
 
-[smu]:<https://www.smu.edu/>
-[ptao]:<https://www.smu.edu/Dedman/Academics/Departments/Chemistry/People/Faculty/PengTao>
+I'm now turning this website into a personal one instead of an academic one. Definitely sharing my life here.
+
+Still keeping my proud research experience and **open to peer review requests**.
 
 :::
 
 ## Education
 
-[**Southern Methodist University**](https://www.smu.edu/) | Dallas, TX, US
-
-Ph.D. in Theoretical and Computational Chemistry | Aug. 2020 - May. 2024
-
-
 [**Georgia Institue of Technology**](https://www.gatech.edu/) | Atlanta, GA, US
 
 M.S. in Computer Science | Aug. 2022 - present
+
+
+[**Southern Methodist University**](https://www.smu.edu/) | Dallas, TX, US
+
+Ph.D. in Theoretical and Computational Chemistry | Aug. 2020 - Aug. 2024
 
 
 [**Beijing University of Chemical Technology**](https://www.buct.edu.cn/) | Beijing, China

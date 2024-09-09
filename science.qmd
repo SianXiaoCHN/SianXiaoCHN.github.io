@@ -2,12 +2,23 @@
 title: "Science"
 ---
 
-It was great to pursue a Ph.D. degree following my interest.
+It was great to pursue a Ph.D. degree following my childhood dream.
+
+I obtained his Ph.D. in Theoretical and Computational Chemistry at [Southern Methodist University][smu] advised by Dr. [Peng Tao][ptao].
+
+My Ph.D. work focuses on the combination of computational structural biology and modern machine learning techniques. The research topic covers protein dynamics, protein allostery, drug desgin, and applications of machine learning and deep learning.
+
+Throughout my past study and research, some other topics I've worked on include perovskite solar cells, composite material with carbon nanotube modifications, chemical catalysis carried by ayered double hydroxides, etc.
+
+[smu]:<https://www.smu.edu/>
+[ptao]:<https://www.smu.edu/Dedman/Academics/Departments/Chemistry/People/Faculty/PengTao>
 
 
 ## Peer Reviews
 
 I am willing to review papers related to my research interest and experience.
+
+Some past peer reviews include:
 
 - Scientific Reports
 - International Journal of Biological Macromolecules
@@ -44,3 +55,29 @@ Annotations: \# first author; \* corresponding author
 - **Xiao, S.**^\#\*^; Verkhivker, G.; Tao, P. Machine Learning and Protein Allostery. *Trends in Biochemical Sciences*, 2022, 48, 375-390. [[link](https://doi.org/10.1016/j.tibs.2022.12.001)]
 - **Xiao, S.**^\#^; Tian, H.; Tao, P. PASSer2.0: Accurate Prediction of Protein Allosteric Sites Through Automated Machine Learning. *Frontiers in Molecular Biosciences*, 2022, 9. [[link](https://doi.org/10.3389/fmolb.2022.879251)]
 - Tian, H.; Jiang, X.; Trozzi, F.; **Xiao, S.**; Larson, E. C.; Tao, P. Explore Protein Conformational Space With Variational Autoencoder. *Frontiers in Molecular Biosciences*, 2021, 8. [[link](https://doi.org/10.3389/fmolb.2021.781635)]
+
+
+## Awards
+
+- **Jan. 2024** Theoretical and Computational Chemistry Research Achievement Award, SMU
+- **May. 2023** Graduate Research Achievement Award (2022-2023 academic year), SMU
+- **Apr. 2023** 3rd Place Price in Physical/Computational Chemistry Section, 55th ACS DFW Annual Meeting-in-Miniature [[link](https://acsdfw.org/meeting-in-miniature/)]
+- **Apr. 2023** Computational Science and Engineering graduate fellowship (2023-2024), SMU
+- **Dec. 2022** Theoretical and Computational Chemistry Research Achievement Award, SMU
+- **Nov. 2021** Runner-up Three Minute Thesis Competition, SMU [[link](https://www.smu.edu/Moody/Events/Three-Minute-Thesis)]
+- **Mar. 2020** University Ph.D. Fellowship (2020-2024), SMU [[link](https://www.smu.edu/Moody/Funding/PHD-Fellows/Xiao)]
+- **Nov. 2017** Outstanding student of College of Materials Science and Engineering, BUCT
+- **May. 2017** First Prize, Mathematical Contest in Modeling, BUCT
+- **Nov. 2016** Outstanding student of College of Science, BUCT
+- **Sep. 2015** Outstanding student of University, BUCT
+
+
+# Conferences
+
+- **Aug. 2023** Poster Presentation, ACS Fall 2023, San Francisco, CA, US
+- **May. 2023** MolSSI workshop: Machine Learning and Chemistry: Are We There Yet?, College Park, MD, US
+- **Apr. 2023** Oral Presentation, 55^th^ ACS DFW Annual Meeting-in-Miniature, Stephenville, TX, US
+- **Mar. 2023** i-CoMSE Enhanced Sampling Virtual School 2023
+- **Feb. 2023** 28^th^ Austin Symposium on Molecular Structure and Dynamics at Dallas (ASMD@D), Dallas, TX, US
+- **Mar. 2022** Poster Presentation, ACS Spring 2022, San Diego, CA, US
+- **Nov. 2021** Three Minute Thesis, SMU, Dallas, TX, US
