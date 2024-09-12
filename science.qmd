@@ -66,7 +66,7 @@ Annotations: \# first author; \* corresponding author
 - **Apr. 2023** Computational Science and Engineering graduate fellowship (2023-2024), SMU
 - **Dec. 2022** Theoretical and Computational Chemistry Research Achievement Award, SMU
 - **Nov. 2021** Runner-up Three Minute Thesis Competition, SMU [[link](https://www.smu.edu/Moody/Events/Three-Minute-Thesis)]
-- **Mar. 2020** University Ph.D. Fellowship (2020-2024), SMU [[link](https://www.smu.edu/moody/university-phd-fellows/sian-xiao)]
+- **Mar. 2020** University Ph.D. Fellowship (2020-2024), SMU [[link](https://www.smu.edu/moody/funding/university-phd-fellows/sian-xiao)]
 - **Nov. 2017** Outstanding student of College of Materials Science and Engineering, BUCT
 - **May. 2017** First Prize, Mathematical Contest in Modeling, BUCT
 - **Nov. 2016** Outstanding student of College of Science, BUCT
