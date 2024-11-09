@@ -20,9 +20,9 @@ I am willing to review papers related to my research interest and experience.
 
 Some past peer reviews include:
 
+- Scientific Reports (2)
+- Discover Artificial Intelligence (2)
 - International Conference on Learning Representations (ICLR)
-- Discover Artificial Intelligence
-- Scientific Reports
 - International Journal of Biological Macromolecules
 - Discover Sustainability
 - Computational and Structural Biotechnology Journal
