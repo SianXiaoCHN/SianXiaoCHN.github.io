@@ -10,9 +10,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - project.qmd
       - science.qmd
       - empty.qmd
+      - empty2.qmd
       - contact.qmd
     pinned: true
   page-footer:
