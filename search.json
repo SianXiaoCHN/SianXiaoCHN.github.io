@@ -7,6 +7,13 @@
     "text": "Coming Soon! Stay tuned for updates."
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "empty.html",
     "href": "empty.html",
     "title": "Empty",
@@ -39,7 +46,7 @@
     "href": "science.html#peer-reviews",
     "title": "Science",
     "section": "Peer Reviews",
-    "text": "Peer Reviews\nI am willing to review papers related to my research interest and experience.\nSome past peer reviews include:\n\nDrug Delivery\nScientific Reports (2)\nDiscover Artificial Intelligence (2)\nInternational Conference on Learning Representations (ICLR)\nInternational Journal of Biological Macromolecules\nDiscover Sustainability\nComputational and Structural Biotechnology Journal\nExpert Review of Anti-Infective Therapy (2)\nJournal of Cheminformatics (3)"
+    "text": "Peer Reviews\nI am willing to review papers related to my research interest and experience.\nSome past peer reviews include:\n\nJournal of Molecular Graphics and Modelling\nDrug Delivery\nScientific Reports (2)\nDiscover Artificial Intelligence (2)\nInternational Conference on Learning Representations (ICLR)\nInternational Journal of Biological Macromolecules\nDiscover Sustainability\nComputational and Structural Biotechnology Journal\nExpert Review of Anti-Infective Therapy (2)\nJournal of Cheminformatics (3)"
   },
   {
     "objectID": "science.html#publications",
@@ -54,12 +61,5 @@
     "title": "Science",
     "section": "Awards",
     "text": "Awards\n\nJan. 2024 Theoretical and Computational Chemistry Research Achievement Award, SMU\nMay. 2023 Graduate Research Achievement Award (2022-2023 academic year), SMU\nApr. 2023 3rd Place Price in Physical/Computational Chemistry Section, 55th ACS DFW Annual Meeting-in-Miniature [link]\nApr. 2023 Computational Science and Engineering graduate fellowship (2023-2024), SMU\nDec. 2022 Theoretical and Computational Chemistry Research Achievement Award, SMU\nNov. 2021 Runner-up Three Minute Thesis Competition, SMU [link]\nMar. 2020 University Ph.D. Fellowship (2020-2024), SMU [link]\nNov. 2017 Outstanding student of College of Materials Science and Engineering, BUCT\nMay. 2017 First Prize, Mathematical Contest in Modeling, BUCT\nNov. 2016 Outstanding student of College of Science, BUCT\nSep. 2015 Outstanding student of University, BUCT"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "About this site"
   }
 ]
