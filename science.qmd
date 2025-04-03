@@ -20,7 +20,8 @@ I am willing to review papers related to my research interest and experience.
 
 Some past peer reviews include:
 
-- Journal of Molecular Graphics and Modelling
+- Computational and Structural Biotechnology Reports
+- Journal of Molecular Graphics and Modelling (2)
 - Drug Delivery
 - Scientific Reports (2)
 - Discover Artificial Intelligence (2)
@@ -40,6 +41,7 @@ A publication list can also be found from [Google Scholar](https://scholar.googl
 
 Annotations: \# first author; \* corresponding author
 
+- **Xiao, S.**; Alshahrani, M.; Hu, G.; Tao, P.; Verkhivker, G. Accurate Characterization of the Allosteric Energy Landscapes, Binding Hotspots and Long-Range Communications for KRAS Complexes with Effector Proteins : Integrative Approach Using Microsecond Molecular Dynamics, Deep Mutational Scanning of Binding Energetics and Allosteric Network Modeling. *bioRxiv*, 2025. [[link](https://doi.org/10.1101/2025.01.27.635141)]
 - Raisinghani, N.; Alshahrani, M.; Gupta, G.; Tian, H.; **Xiao, S.**; Tao, P.; Verkhivker, G. Probing Functional Allosteric States and Conformational Ensembles of the Allosteric Protein Kinase States and Mutants: Atomistic Modeling and Comparative Analysis of AlphaFold2, OmegaFold, and AlphaFlow Approaches and Adaptations. *The Journal of Physical Chemistry B*, 2024, 128(45), 11088–11107. [[link](https://doi.org/10.1021/acs.jpcb.4c04985)]
 - Raisinghani, N.; Alshahrani, M.; Gupta, G.; Tian, H.; **Xiao, S.**; Tao, P.; Verkhivker, G. Integration of a Randomized Sequence Scanning Approach in AlphaFold2 and Local Frustration Profiling of Conformational States Enable Interpretable Atomistic Characterization of Conformational Ensembles and Detection of Hidden Allosteric States in the ABL1 Protein Kinase. *Journal of Chemical Theory and Computation*, 2024, 20(12), 5317–5336. [[link](https://doi.org/10.1021/acs.jctc.4c00222)]
 - Raisinghani, N.; Alshahrani, M.; Gupta, G.; **Xiao, S.**; Tao, P.; Verkhivker, G. Exploring conformational landscapes and binding mechanisms of convergent evolution for the SARS-CoV-2 spike Omicron variant complexes with the ACE2 receptor using AlphaFold2-based structural ensembles and molecular dynamics simulations. *Physical Chemistry Chemical Physics*, 2024, 26, 17720-17744. [[link](https://doi.org/10.1039/D4CP01372G)]
