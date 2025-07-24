@@ -20,6 +20,7 @@ I am willing to review papers related to my research interest and experience.
 
 Some past peer reviews include:
 
+- Computers
 - Molecules
 - Computational and Structural Biotechnology Reports
 - Journal of Molecular Graphics and Modelling (3)
