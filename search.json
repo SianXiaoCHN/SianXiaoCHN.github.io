@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sian Xiao, Ph.D.",
-    "section": "",
-    "text": "I joined Goldman Sachs as a Quantitative Strategist within Risk in February 2025.\nI am a soccer fan. I also love traveling and working out.\nI’m now turning this website into a personal one instead of an academic one. Definitely sharing my life here.\nStill keeping my proud research experience and open to peer review requests.\n \n  \n   \n  \n    \n     E-mail\n  \n  \n    \n     Github\n  \n  \n    \n     CV\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Google Scholar"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Sian Xiao, Ph.D.",
-    "section": "Education",
-    "text": "Education\nGeorgia Institue of Technology | Atlanta, GA, US\nM.S. in Computer Science | Aug. 2022 - present\nSouthern Methodist University | Dallas, TX, US\nPh.D. in Theoretical and Computational Chemistry | Aug. 2020 - Aug. 2024\nBeijing University of Chemical Technology | Beijing, China\nB.E. in Polymer Materials and Engineering, Experimental Class of Science | Sep. 2015 - Jul. 2019"
-  },
-  {
     "objectID": "empty.html",
     "href": "empty.html",
     "title": "Empty",
@@ -32,7 +11,7 @@
     "href": "science.html",
     "title": "Science",
     "section": "",
-    "text": "It was great to pursue a Ph.D. degree following my childhood dream.\nI obtained his Ph.D. in Theoretical and Computational Chemistry at Southern Methodist University advised by Dr. Peng Tao.\nMy Ph.D. work focuses on the combination of computational structural biology and modern machine learning techniques. The research topic covers protein dynamics, protein allostery, drug desgin, and applications of machine learning and deep learning.\nThroughout my past study and research, some other topics I’ve worked on include perovskite solar cells, composite material with carbon nanotube modifications, chemical catalysis carried by ayered double hydroxides, etc."
+    "text": "It was great to pursue a Ph.D. degree following my childhood dream.\nI obtained his Ph.D. in Theoretical and Computational Chemistry at Southern Methodist University advised by Dr. Peng Tao.\nMy Ph.D. work focuses on the combination of computational structural biology and modern machine learning techniques. The research topic covers protein dynamics, protein allostery, drug desgin, and applications of machine learning and deep learning.\nThroughout my past study and research, some other topics I’ve worked on include perovskite solar cells, composite material with carbon nanotube modifications, chemical catalysis carried by ayered double hydroxides, etc.\nGlad to see I have over 400 citations now."
   },
   {
     "objectID": "science.html#peer-reviews",
@@ -54,6 +33,27 @@
     "title": "Science",
     "section": "Academic Awards",
     "text": "Academic Awards\n\nJan. 2024 Theoretical and Computational Chemistry Research Achievement Award, SMU\nMay. 2023 Graduate Research Achievement Award (2022-2023 academic year), SMU\nApr. 2023 3rd Place Price in Physical/Computational Chemistry Section, 55th ACS DFW Annual Meeting-in-Miniature [link]\nApr. 2023 Computational Science and Engineering graduate fellowship (2023-2024, $25,000 in total), SMU\nDec. 2022 Theoretical and Computational Chemistry Research Achievement Award, SMU\nNov. 2021 Runner-up Three Minute Thesis Competition, SMU [link]\nMar. 2020 University Ph.D. Fellowship (2020-2024, $32,000 in total), SMU [link]\nNov. 2017 Outstanding student of College of Materials Science and Engineering, BUCT\nMay. 2017 First Prize, Mathematical Contest in Modeling, BUCT\nNov. 2016 Outstanding student of College of Science, BUCT\nSep. 2015 Outstanding student of University, BUCT"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sian Xiao, Ph.D.",
+    "section": "",
+    "text": "I joined Goldman Sachs as a Quantitative Strategist within Risk in February 2025.\nI am a soccer fan. I also love traveling and working out.\nI’m now turning this website into a personal one instead of an academic one. Definitely sharing my life here.\nStill keeping my proud research experience and open to peer review requests.\n \n  \n   \n  \n    \n     E-mail\n  \n  \n    \n     Github\n  \n  \n    \n     CV\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Google Scholar"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sian Xiao, Ph.D.",
+    "section": "Education",
+    "text": "Education\nGeorgia Institue of Technology | Atlanta, GA, US\nM.S. in Computer Science | Aug. 2022 - present\nSouthern Methodist University | Dallas, TX, US\nPh.D. in Theoretical and Computational Chemistry | Aug. 2020 - Aug. 2024\nBeijing University of Chemical Technology | Beijing, China\nB.E. in Polymer Materials and Engineering, Experimental Class of Science | Sep. 2015 - Jul. 2019"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "About this site"
   },
   {
     "objectID": "empty2.html",
