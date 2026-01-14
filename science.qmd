@@ -22,13 +22,13 @@ I am willing to review papers related to my research interest and experience.
 
 Some past peer reviews include:
 
+- Scientific Reports (3)
 - Journal of Molecular Graphics and Modelling (4)
 - Pharmaceuticals
 - Computers
 - Molecules
 - Computational and Structural Biotechnology Reports
 - Drug Delivery
-- Scientific Reports (2)
 - Discover Artificial Intelligence (2)
 - International Conference on Learning Representations (ICLR)
 - International Journal of Biological Macromolecules
